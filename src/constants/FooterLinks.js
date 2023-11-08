@@ -7,7 +7,7 @@ const QuickLinks = [
     {
         _id:102,
         text:"PortFolio",
-        link:"www.google.com"
+        link:"https://port-folio-one-pink.vercel.app/"
     },
     // {
     //     _id:103,
