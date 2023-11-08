@@ -1,0 +1,14 @@
+.sticky-header{
+    position: sticky;
+    top:0px;
+    animation :stikyHeader  0.3s ease forwards;
+}
+
+@keyframes stikyHeader {
+    0% {transform: translateY(-80px);}
+    100% {transform: translateY(0);}
+}
+
+.active{
+    color:#ff014f;
+}
