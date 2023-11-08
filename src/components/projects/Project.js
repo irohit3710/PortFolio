@@ -15,7 +15,7 @@ const Project = () => {
         <ProjectsCard
           title="YOUTUBE CLONE"
           des=" This is a YouTube clone web application built with React.js and powered by API support. It allows users to explore and interact with videos, just like the real YouTube platform. With a clean and user-friendly interface, our YouTube clone provides a seamless experience for both content creators and viewers."
-          src="https://i.postimg.cc/FFnCrfrT/You-Tube-Clone.png"
+          src="https://i.postimg.cc/1Xdr38Lx/You-Tube-Clone2.png"
           Gitlink="https://github.com/irohit3710/YouTube-Clone"
           DepLink="https://you-tube-clone-liart-ten.vercel.app/"
         />
@@ -29,7 +29,7 @@ const Project = () => {
         <ProjectsCard
           title="Apna Kisan"
           des=" A local Farmer Market is the vibrant hub of activity where farmers from the surrounding areas can come together to sell and buy crops and products without having to worry about extra charges."
-          src="https://i.postimg.cc/mrJtjf73/Apna-Kisan.png"
+          src="https://i.postimg.cc/zD2jjQ3d/Apna-Kisan2.png"
           Gitlink="https://github.com/irohit3710/Apna__KISAN"
           DepLink="https://github.com/irohit3710/Apna__KISAN"
         />
