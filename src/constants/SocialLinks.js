@@ -9,15 +9,15 @@ const SocialLinks = () => {
     <>
         <div>
             <div className="flex gap-4">
-            <span className={`${property} hover:text-blue-800`}>
-                <Link to={`https://www.facebook.com/rohit.panwar.3710`} target='_blank' rel='noopener'><FaFacebookF /> </Link>
-            </span>
-            <span className={`${property} hover:text-blue-400`}>
-                <Link to={`https://twitter.com/RohitPa41273782`} target='_blank' rel='noopener'><FaTwitter /></Link>
-            </span>
-            <span className={`${property} hover:text-blue-600`}>
-                <Link to={`https://www.linkedin.com/in/rohit-panwar-b4bba6242/`} target='_blank' rel='noopener'><FaLinkedinIn /></Link>
-            </span>
+                <span className={`${property} hover:text-blue-600`}>
+                    <Link to={`https://www.linkedin.com/in/rohit-panwar-b4bba6242/`} target='_blank' rel='noopener'><FaLinkedinIn /></Link>
+                </span>
+                <span className={`${property} hover:text-blue-400`}>
+                    <Link to={`https://twitter.com/RohitPa41273782`} target='_blank' rel='noopener'><FaTwitter /></Link>
+                </span>
+                <span className={`${property} hover:text-blue-800`}>
+                    <Link to={`https://www.facebook.com/rohit.panwar.3710`} target='_blank' rel='noopener'><FaFacebookF /> </Link>
+                </span>
             </div>
         </div>
     </>

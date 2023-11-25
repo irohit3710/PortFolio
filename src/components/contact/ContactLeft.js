@@ -16,10 +16,10 @@ const ContactLeft = () => {
         <p className="text-lg font-normal text-gray-400">
         MERN Stack Developer
         </p>
-        <p className="text-base text-gray-400 tracking-wide">
+        {/* <p className="text-base text-gray-400 tracking-wide">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
         ipsam autem cumque, accusantium dicta odio.
-        </p>
+        </p> */}
         <p className="text-base text-gray-400 flex items-center gap-2">
         Phone: <span className="text-lightText">+91 7417470339</span>
         </p>

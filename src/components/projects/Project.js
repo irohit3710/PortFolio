@@ -13,6 +13,13 @@ const Project = () => {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
+          title="CHITCHAT WEB"
+          des=" ChitChatWeb is a full-stack chat application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). This real-time chat app allows users to communicate with each other in a seamless and interactive way. ChitChatWeb leverages the power of MongoDB to store messages and user data, while the Express.js and Node.js backend provide a robust server, and the React.js frontend offers a modern and responsive user interface."
+          src="https://i.postimg.cc/Vv0YpGNM/ChitChat.png"
+          Gitlink="https://github.com/irohit3710/ChatFrontend"
+          DepLink="https://chat-frontend-liart.vercel.app/"
+        />
+        <ProjectsCard
           title="YOUTUBE CLONE"
           des=" This is a YouTube clone web application built with React.js and powered by API support. It allows users to explore and interact with videos, just like the real YouTube platform. With a clean and user-friendly interface, our YouTube clone provides a seamless experience for both content creators and viewers."
           src="https://i.postimg.cc/1Xdr38Lx/You-Tube-Clone2.png"
