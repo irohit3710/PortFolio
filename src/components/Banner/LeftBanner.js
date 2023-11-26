@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-          MERN stack developers are proficient in utilizing MongoDB, Express.js, React.js, and Node.js to build robust and scalable full-stack web applications. With expertise across both frontend and backend technologies, MERN developers excel in creating seamless, modern, and feature-rich digital experiences.
+          MERN stack developers are proficient in utilizing MongoDB, Express.js, React.js, and Node.js to build robust and scalable full-stack web applications. With expertise across both frontend and backend technologies, MERN stack developers excel in creating seamless, modern, and feature-rich digital experiences.
         </p>
       </div>
      {/* Media */}
