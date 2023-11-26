@@ -1,6 +1,6 @@
 <h1 align="center" id="title">PortFolio</h1>
 
-<p align="center"><img src="https://socialify.git.ci/irohit3710/Wix_Movies/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/irohit3710/PortFolio/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">Welcome to my portfolio repository! This is the source code for my personal portfolio website. It showcases my skills projects and provides a glimpse into who I am as a developer.</p>
 
