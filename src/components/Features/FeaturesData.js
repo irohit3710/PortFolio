@@ -9,13 +9,13 @@ const data = [
         link:"https://github.com/irohit3710",
         icon:<FaGithub/>
     },
-    {
-        _id:101,
-        title:"LeetCode",
-        text:"LeetCode: Unlocking the door to coding mastery through continuous practice and challenging puzzles.",
-        link:"https://leetcode.com/its_rohit_m/",
-        icon:<SiLeetcode/>
-    },
+    // {
+    //     _id:101,
+    //     title:"LeetCode",
+    //     text:"LeetCode: Unlocking the door to coding mastery through continuous practice and challenging puzzles.",
+    //     link:"https://leetcode.com/its_rohit_m/",
+    //     icon:<SiLeetcode/>
+    // },
     {
         _id:101,
         title:"GFG",
